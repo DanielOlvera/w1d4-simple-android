@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     //tv.setText(stringFromJNI());
 
         //HelloWorld
+        //Hello Commit XD
     }
 
     /**
